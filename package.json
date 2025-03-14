@@ -1,0 +1,33 @@
+{
+  "name": "@lucher/change-base",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "description": "Una librería simple y eficiente para convertir números representados como arreglos de dígitos de una base a otra. Ideal para aplicaciones que requieren manipulación de números en diferentes bases, como sistemas de numeración no estándar, criptografía y más.",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.26.9",
+    "@babel/preset-react": "^7.26.3",
+    "@types/jest": "^29.5.14",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.6",
+    "ts-node": "^10.9.2"
+  },
+  "keywords": [
+    "base-conversion",
+    "number-base",
+    "digits",
+    "numerical-systems",
+    "cryptography",
+    "math",
+    "utility",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LUCHER4321/change-base"
+  },
+  "author": "LUCHER4321"
+}
