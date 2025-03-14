@@ -1,6 +1,6 @@
 {
   "name": "@lucher/change-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.ts",
   "description": "Una librería simple y eficiente para convertir números representados como arreglos de dígitos de una base a otra. Ideal para aplicaciones que requieren manipulación de números en diferentes bases, como sistemas de numeración no estándar, criptografía y más.",
   "scripts": {
