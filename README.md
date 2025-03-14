@@ -7,7 +7,7 @@
 Puedes instalar `change-base` usando npm:
 
 ```bash
-npm install change-base
+npm install @lucher/change-base
 ```
 
 ## Uso
@@ -15,9 +15,7 @@ npm install change-base
 La librería exporta una función llamada `changeBase` que toma tres argumentos:
 
 - `digits`: Un arreglo de números representando los dígitos del número en la base original.
-
 - `base`: La base original del número.
-
 - `newBase`: La base a la que se desea convertir el número.
 
 La función devuelve un arreglo de números representando los dígitos del número en la nueva base.
